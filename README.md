@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 26.2.3.2 (Linux)"/>
-	<meta name="created" content="2026-08-07T11:10:24.361268740"/>
-	<meta name="changed" content="2026-08-07T11:34:10.237486894"/>
-	<style type="text/css">
-		@page { size: 8.27in 11.69in; margin: 0.79in }
-		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
-		a:link { color: #000080; text-decoration: underline }
-	</style>
-</head>
+
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0in; border: none; padding: 0in">
 <span style="display: inline-block; border: none; padding: 0in"><font size="6" style="font-size: 24pt">Privacy
 Policy&nbsp;</font></span></p>
