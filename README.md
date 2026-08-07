@@ -1,2 +1,90 @@
-# pfischer27.github.io
-Privacy Policy for TrueLaunch
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 26.2.3.2 (Linux)"/>
+	<meta name="created" content="2026-08-07T11:10:24.361268740"/>
+	<meta name="changed" content="2026-08-07T11:34:10.237486894"/>
+	<style type="text/css">
+		@page { size: 8.27in 11.69in; margin: 0.79in }
+		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
+		a:link { color: #000080; text-decoration: underline }
+	</style>
+</head>
+<body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0in; border: none; padding: 0in">
+<span style="display: inline-block; border: none; padding: 0in"><font size="6" style="font-size: 24pt">Privacy
+Policy&nbsp;</font></span></p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><br/>
+
+</p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in">Last
+Updated 2025-08-07</span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in"><b>TrueLaunch
+</b>App is provided by Peter Fischer at no cost and is intended for
+use as is.&nbsp;</span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in">This
+page is used to inform users regarding policies with the collection,
+use, and disclosure of Personal Information if anyone decided to use
+the APP.&nbsp;</span></p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><br/>
+
+</p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in">No
+Personal information is collected by the APP</span></p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><br/>
+
+</p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in"><b>Information
+Collection and Use</b>&nbsp;</span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in">The
+APP does use third party services that may collect information used
+to identify you including Google Maps and Google Analytics.&nbsp;</span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in"><span lang="en-US">The
+</span><span lang="en-US">Google Map</span><span lang="en-US"> API is
+simply used to display </span><span lang="en-US">map information
+pertinent to your location and the launch site location.  </span><span lang="en-US">Google's
+privacy policy can be found
+here: &nbsp;<a href="http://www.google.com/policies/privacy" target="_blank">http://www.google.com/policies/privacy</a>&nbsp;</span></span></p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><br/>
+
+</p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in"><b>Log
+Data&nbsp;</b></span></p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><span style="display: inline-block; border: none; padding: 0in">No
+Log data is collected by the APP</span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><br/>
+
+</p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><span style="display: inline-block; border: none; padding: 0in"><b>Cookies&nbsp;</b></span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in; font-weight: normal">
+<span style="display: inline-block; border: none; padding: 0in">No
+Cookies are used by the app</span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><br/>
+
+</p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in"><b>Children’s
+Privacy&nbsp;</b></span></p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><span style="display: inline-block; border: none; padding: 0in">The
+APP does not address anyone under the age of 16. It does not
+knowingly collect personal identifiable information from anyone,
+including  children under 16.</span></p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><br/>
+
+</p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><span style="display: inline-block; border: none; padding: 0in"><b>Changes
+to This Privacy Policy&nbsp;</b></span></p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><span style="display: inline-block; border: none; padding: 0in">The
+Privacy Policy may be updated from time to time. Thus, you are
+advised to review this page periodically for any changes.
+Notification of change will be provided via the posting of the new
+Privacy Policy on this page. These changes Privacy Policy </span>
+</p>
+<p style="border: none; padding: 0in; margin-bottom: 0in"><br/>
+
+</p>
+<p style="margin-bottom: 0in; border: none; padding: 0in"><br/>
+
+</p>
+</body>
+</html>
