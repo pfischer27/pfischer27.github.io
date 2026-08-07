@@ -2,8 +2,8 @@
 <html>
 
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0in; border: none; padding: 0in">
-<span style="display: inline-block; border: none; padding: 0in"><font size="6" style="font-size: 24pt">Privacy
-Policy&nbsp;</font></span></p>
+<span style="display: inline-block; border: none; padding: 0in"><font size="14" style="font-size: 24pt"><b> True Launch Privacy
+Policy</font></b>&nbsp;</font></span></p>
 <p style="border: none; padding: 0in; margin-bottom: 0in"><br/>
 
 </p>
